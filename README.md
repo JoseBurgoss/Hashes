@@ -19,7 +19,7 @@ y aplica funciones hash para encontrar mensajes cuyo **hash comience con un núm
 
 ## 📁 Estructura del proyecto
 
-- `evaluacion_hashes.py` → Script principal que ejecuta el experimento.
+- `hashes.py` → Script principal que ejecuta el experimento.
 - `README.md` → Este archivo con instrucciones.
 
 ---
@@ -36,11 +36,11 @@ y aplica funciones hash para encontrar mensajes cuyo **hash comience con un núm
 ### 1. Clona este repositorio o descarga el archivo
 
 ```bash
-git clone https://github.com/tu-usuario/evaluacion-hash.git
-cd evaluacion-hash
+git clone https://github.com/tu-usuario/hash.git
+cd hash
 ````
 
-O simplemente descarga `evaluacion_hashes.py` desde GitHub.
+O simplemente descarga `hashes.py` desde GitHub.
 
 ---
 
@@ -49,7 +49,7 @@ O simplemente descarga `evaluacion_hashes.py` desde GitHub.
 Desde una terminal, corre el siguiente comando:
 
 ```bash
-python evaluacion_hashes.py
+python hashes.py
 ```
 
 > Asegúrate de tener Python instalado y agregado a tu PATH.
